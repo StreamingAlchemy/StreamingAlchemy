@@ -65,15 +65,17 @@ PREVInputNodeList = VmixXML.SelectSingleNode("/vmix/inputs/input[@key=""" & PREV
 
 'Get the count of layers we're working with:
 TotalPROGLayers = PROGInputNodeList.Count
+TotalPREVLayers = PREVInputNodeList.Count
 
 'Check to see if INPUT in PROGRAM has any layers
 
 If TotalPROGLayers<=0 AND TotalPREVLayers>0 Then  'LAYERS are in PREVIEW with just an INPUT in PROGRAM
         'Check if PROGRAM's Input is in one of the PREVIEW's Layers and Assign it to FoundLAYER
     FoundLAYERNode = VmixXML.SelectSingleNode("/vmix/inputs/input[@key=""" & PREVInput & """]/overlay[@key=""" & PROGInput & """]")
-    
+   
     If NOT FoundLAYERNode IS NOTHING Then   ' If there is a LAYER with the INPUT in PROGRAM...
         FoundLAYER = FoundLAYERNode.Attributes.GetNamedItem("index").Value    ' ...Assign the INDEX of the LAYER
+       
         API.Function("MoveMultiViewOverlay", Input:=PREVInputNumber, value:=(CInt(FoundLAYER) + 1) & ",10")    'PREV:Move FoundLAYER to LAYER 10
         Sleep(200)
         API.Function("Merge")
@@ -86,8 +88,8 @@ If TotalPROGLayers<=0 AND TotalPREVLayers>0 Then  'LAYERS are in PREVIEW with ju
 ElseIf TotalPROGLayers>0 AND TotalPREVLayers<=0 Then  'LAYERS are in PROGRAM with an just INPUT in PREVIEW
     
     'Check if PROGRAM's Input is in one of the PREVIEW's Layers and Assign it to FoundLAYER
-     FoundLAYERNode = VmixXML.SelectSingleNode("/vmix/inputs/input[@key=""" & PROGInput & """]/overlay[@key=""" & PREVInput & """]")
-    
+    FoundLAYERNode = VmixXML.SelectSingleNode("/vmix/inputs/input[@key=""" & PROGInput & """]/overlay[@key=""" & PREVInput & """]")
+       
     If NOT FoundLAYERNode IS NOTHING Then   ' If there is a LAYER with the INPUT in PREVIEW...
         FoundLAYER = FoundLAYERNode.Attributes.GetNamedItem("index").Value    ' ...Assign the INDEX of the LAYER
         API.Function("MoveMultiViewOverlay", Input:=PROGInputNumber, value:=(CInt(FoundLAYER) + 1) & ",10")    'PROG:Move FoundLAYER to LAYER 10
@@ -96,6 +98,7 @@ ElseIf TotalPROGLayers>0 AND TotalPREVLayers<=0 Then  'LAYERS are in PROGRAM wit
         Sleep(1000)
         API.Function("MoveMultiViewOverlay", Input:=PROGInputNumber, value:="10," & (CInt(FoundLAYER) + 1)) 'PROG:Move Layer 10 back to FoundLAYER
     Else
+        
         API.Function("Merge")  
     End If
 
