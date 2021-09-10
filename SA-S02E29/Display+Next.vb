@@ -1,0 +1,7 @@
+API.Function("OverlayInput1Off",Input:=1)
+Sleep(250)
+API.Function("OverlayInput1In",Input:=1)
+Sleep(5000)
+API.Function("OverlayInput1Out",Input:=1)
+Sleep(250)
+API.Function("DataSourceNextRow", Value:="EventPanels,Panel1")
