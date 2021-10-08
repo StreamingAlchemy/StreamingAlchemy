@@ -1,0 +1,82 @@
+<breakout>
+    <zone>
+        <label>LiveToAir Interface</label>
+        <edgeL>0</edgeL>
+        <edgeR>1920</edgeR>
+        <edgeT>0</edgeT>
+        <edgeB>1080</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - Guest Selection</label>
+        <edgeL>10</edgeL>
+        <edgeR>450</edgeR>
+        <edgeT>455</edgeT>
+        <edgeB>1048</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - Video Controls</label>
+        <edgeL>475</edgeL>
+        <edgeR>805</edgeR>
+        <edgeT>455</edgeT>
+        <edgeB>783</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - Remote Guest Settings</label>
+        <edgeL>475</edgeL>
+        <edgeR>805</edgeR>
+        <edgeT>785</edgeT>
+        <edgeB>1048</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - Independent Guest Channels</label>
+        <edgeL>820</edgeL>
+        <edgeR>1592</edgeR>
+        <edgeT>455</edgeT>
+        <edgeB>1048</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - Master Controls</label>
+        <edgeL>1600</edgeL>
+        <edgeR>1910</edgeR>
+        <edgeT>455</edgeT>
+        <edgeB>1048</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - Selected Guest Monitor</label>
+        <edgeL>20</edgeL>
+        <edgeR>640</edgeR>
+        <edgeT>45</edgeT>
+        <edgeB>420</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - Studio Feed Monitors</label>
+        <edgeL>640</edgeL>
+        <edgeR>1280</edgeR>
+        <edgeT>45</edgeT>
+        <edgeB>420</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - Return Feed Monitor</label>
+        <edgeL>1280</edgeL>
+        <edgeR>1900</edgeR>
+        <edgeT>45</edgeT>
+        <edgeB>420</edgeB>
+        <asset></asset>
+    </zone>
+    <zone>
+        <label>LiveToAir - All Monitors</label>
+        <edgeL>20</edgeL>
+        <edgeR>1900</edgeR>
+        <edgeT>45</edgeT>
+        <edgeB>420</edgeB>
+        <asset></asset>
+    </zone>
+</breakout>
