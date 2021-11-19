@@ -1,0 +1,16 @@
+{
+  "name": "vmix1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Streaming Alchemy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "xml2js": "^0.4.23",
+    "xml2js-xpath": "^0.12.0"
+  }
+}
