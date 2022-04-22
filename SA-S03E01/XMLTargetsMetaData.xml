@@ -1,0 +1,23 @@
+<Targets sets="3">
+    <Cameras>
+        <Camera cam="A">CAM-A</Camera>
+        <Camera cam="B">CAM-B</Camera>
+        <Camera cam="C">CAM-C</Camera>
+    </Cameras>
+    <Target set="1">
+        <Shot priority="1" camera="CAM-A" input="A1" preset="1"></Shot>
+        <Shot priority="2" camera="CAM-C" input="C1" preset="1"></Shot>
+        <Shot priority="3" camera="CAM-B" input="B1" preset="1"></Shot>
+    </Target>
+    <Target set="2">
+        <Shot priority="1" camera="CAM-C" input="C2" preset="2"></Shot>
+        <Shot priority="2" camera="CAM-B" input="B2" preset="2"></Shot>
+        <Shot priority="3" camera="CAM-A" input="A2" preset="2"></Shot>
+    </Target>
+    <Target set="3">
+        <Shot priority="1" camera="CAM-B" input="B3" preset="3"></Shot>
+        <Shot priority="2" camera="CAM-A" input="A3" preset="3"></Shot>
+        <Shot priority="3" camera="CAM-C" input="C3" preset="3"></Shot>
+    </Target>
+    <Failover>CAM-D</Failover>
+</Targets>
