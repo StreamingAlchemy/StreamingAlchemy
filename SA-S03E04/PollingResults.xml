@@ -1,0 +1,43 @@
+<PollingQuestions>
+
+    <Question number="1">
+        <QuestionAsked>Which style of music is better?</QuestionAsked>
+        <OptionA>Country Music</OptionA>
+        <OptionAPercent>35</OptionAPercent>
+        <OptionAImage>Q1A.png</OptionAImage>
+        <OptionB>Rock Music</OptionB>
+        <OptionBPercent>65</OptionBPercent>
+        <OptionBImage>Q1B.png</OptionBImage>
+    </Question>
+
+    <Question number="2">
+        <QuestionAsked>Which type of phone is better?</QuestionAsked>
+        <OptionA>Apple iPhone</OptionA>
+        <OptionAPercent>65</OptionAPercent>
+        <OptionAImage>Q2A.png</OptionAImage>
+        <OptionB>Android</OptionB>
+        <OptionBPercent>35</OptionBPercent>
+        <OptionBImage>Q2B.png</OptionBImage>
+    </Question>
+
+    <Question number="3">
+        <QuestionAsked>Which mobile computer is better?</QuestionAsked>
+        <OptionA>MacBook Pro's</OptionA>
+        <OptionAPercent>88</OptionAPercent>
+        <OptionAImage>Q3A.png</OptionAImage>
+        <OptionB>Windows Laptops</OptionB>
+        <OptionBPercent>12</OptionBPercent>
+        <OptionBImage>Q3B.png</OptionBImage>
+    </Question>
+
+    <Question number="4">
+        <QuestionAsked>Which game console is better?</QuestionAsked>
+        <OptionA>Sony PlayStation</OptionA>
+        <OptionAPercent>58</OptionAPercent>
+        <OptionAImage>Q4A.png</OptionAImage>
+        <OptionB>Microsoft XBox</OptionB>
+        <OptionBPercent>42</OptionBPercent>
+        <OptionBImage>Q4B.png</OptionBImage>
+    </Question>
+
+</PollingQuestions>
