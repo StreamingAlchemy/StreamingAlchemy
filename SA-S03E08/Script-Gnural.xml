@@ -1,0 +1,27 @@
+<Script>
+    <Segment Number="1">
+        <Name>INTRODUCTION</Name>
+        <Notes>Read with an even pace, but try to create a sense of excitement over the product possibilities.</Notes> 
+        <Text>The next generation of LiveToAir comes in two new versions supporting either six or twelve remote guest channels. LiveToAir has always delivered an efficient, intuitive workflow, and these new versions carry on that tradition. When guests initially connect to LiveToAir, they start out Off-Air in a virtual Green Room. From there, they can get prepped by a producer and coordinate with the other Off-Air Guests before they go live. When everyone is ready, they can all be switched On-Air where their video and audio will be pushed into your production switcher and audio mixer, and they will start receiving a live return feed from your studio. Raising the number of channels is just one of many major enhancements found in these new versions.</Text>
+    </Segment>
+    <Segment Number="2">
+        <Name>MORE VIDEO CONFIGURATIONS</Name>
+        <Notes>Read with an even pace, but try to create a sense of excitement over the product possibilities.</Notes>
+        <Text>When it comes to routing video in to and out of your production, LiveToAir | 6 and | 12 were designed to give you as much flexibility as possible. The system supports both NDI and SDI inputs and outputs, allowing you to use a mixture of the two throughout the Software (including the ability to send out Guests through both simultaneously if needed.) In addition, the resolution of each video feed can be set independently as well.</Text>
+    </Segment>
+    <Segment Number="3">
+        <Name>MORE AUDIO CONFIGURATIONS</Name>
+        <Notes>Read with an even pace, but try to create a sense of excitement over the product possibilities.</Notes> 
+        <Text>While  still providing for simple ways to configure your audio, the new LiveToAir | 6 and | 12 are able to support very complex audio routing and multiple mix-minus setups. They support audio over NDI, SDI, and WDM  (including Dante in WDM mode), allowing you to use a mixture of all three throughout the software.  If needed, it is even possible to send out each Guest’s audio through both NDI and either SDI or WDM simultaneously.</Text>
+    </Segment>
+    <Segment Number="4">
+        <Name>Creating Virtual Green Rooms</Name>
+        <Notes>Read with an even pace, but try to create a sense of excitement over the product possibilities.</Notes> 
+        <Text>A key feature we have introduced in this new version of  LiveToAir is the ability to output Guest video when Off-Air. When combined with our flexible audio routing capabilities, this now allows you to create custom Green Rooms in external software like vMix or OBS.  You can use these platforms to create a custom virtual space (with your own layout and branding) and route the output back into LiveToAir as the Off-Air return video feed. When configured this way, switching guests Off-Air will place them into the Green Room, and switching them On-Air will place them back in the studio - all with the press of a single button. </Text>
+    </Segment>
+    <Segment Number="5">
+        <Name>Creating Break-Out Rooms</Name>
+        <Notes>Read with an even pace, but try to create a sense of excitement over the product possibilities.</Notes> 
+        <Text>The flexibility offered by LiveToAir translates in many creative possibilities. For example, in LiveToAir | 12 you could have the first four Guest Channels in one mix-minus group when they are Off-Air, the next four in a second, and the final four in a third, but assign everyone to a single mix-minus group when they are On-Air.  When these guests are set Off-Air they will effectively be in three separate Break-Out Rooms, but when switched On-Air they will come together to interact as a single group. When combined with the advanced video routing capabilities now available in LiveToAir, very sophisticated virtual spaces can be created to support this as well.</Text>
+    </Segment>
+</Script>
