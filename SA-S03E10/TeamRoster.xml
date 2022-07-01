@@ -1,0 +1,105 @@
+<Roster>
+    <TeamA teamname="Panthers">
+    <Player number="5">
+        <FirstName>Shaun</FirstName>
+        <LastName>Beckert</LastName>
+        <Position>Wide Receiver</Position>
+        <ImageURI>TeamA-Player5.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="24">
+        <FirstName>Ryan</FirstName>
+        <LastName>Gerstein</LastName>
+        <Position>Running Back</Position>
+        <ImageURI>TeamA-Player24.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="27">
+        <FirstName>Robert</FirstName>
+        <LastName>Michaels</LastName>
+        <Position>Tight End</Position>
+        <ImageURI>TeamA-Player27.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="30">
+        <FirstName>Stan</FirstName>
+        <LastName>Hawkins</LastName>
+        <Position>Wide Receiver</Position>
+        <ImageURI>TeamA-Player30.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="33">
+        <FirstName>Micos</FirstName>
+        <LastName>Armendous</LastName>
+        <Position>Quarterback</Position>
+        <ImageURI>TeamA-Player33.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="97">
+        <FirstName>Roger</FirstName>
+        <LastName>Slausman</LastName>
+        <Position>Center</Position>
+        <ImageURI>TeamA-Player97.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player> 
+</TeamA>
+<TeamB teamname="Mixers">
+    <Player number="11">
+        <FirstName>Stacy</FirstName>
+        <LastName>Dugan</LastName>
+        <Position>Kicker</Position>
+        <ImageURI>TeamB-Player11.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="30">
+        <FirstName>Hal</FirstName>
+        <LastName>Thugist</LastName>
+        <Position>Full Back</Position>
+        <ImageURI>TeamB-Player30.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="32">
+        <FirstName>Peter</FirstName>
+        <LastName>Popalau</LastName>
+        <Position>Running Back</Position>
+        <ImageURI>TeamB-Player32.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="58">
+        <FirstName>Gizel</FirstName>
+        <LastName>Klouserman</LastName>
+        <Position>Quarterback</Position>
+        <ImageURI>TeamB-Player58.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player>
+    <Player number="89">
+        <FirstName>Shannon</FirstName>
+        <LastName>Fedderock</LastName>
+        <Position>Halfback</Position>
+        <ImageURI>TeamB-Player89.png</ImageURI>
+        <Age>25 Years Old</Age>
+        <Height>6Ft 3in</Height>
+        <Weight>250lbs</Weight>
+    </Player> 
+</TeamB>
+</Roster>
