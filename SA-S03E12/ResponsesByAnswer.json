@@ -1,0 +1,115 @@
+responses #A:
+ [
+  {
+    "name": "Finn Clairmont",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M10.png",
+    "answer": "#A"
+  },
+  {
+    "name": "Mandy Devina",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F03.png",
+    "answer": "#A"
+  },
+  {
+    "name": "Isabella Dee",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F08.png",
+    "answer": "#A"
+  },
+  {
+    "name": "Hazel Marsh",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F09.png",
+    "answer": "#A"
+  },
+  {
+    "name": "Liam Clayton",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M01.png",
+    "answer": "#A"
+  },
+  {
+    "name": "Oliver Adams",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M02.png",
+    "answer": "#A"
+  }
+]
+
+responses #B:
+ [
+  {
+    "name": "Wyatt Presley",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M09.png",
+    "answer": "#B"
+  },
+  {
+    "name": "Celia Morton",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F05.png",
+    "answer": "#B"
+  },
+  {
+    "name": "Stu Harvey",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M03.png",
+    "answer": "#B"
+  },
+  {
+    "name": "Elijah Astor",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M05.png",
+    "answer": "#B"
+  },
+  {
+    "name": "Betty Stein",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F02.png",
+    "answer": "#B"
+  },
+  {
+    "name": "Amelia Vester",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F07.png",
+    "answer": "#B"
+  }
+]
+
+responses #C:
+ [
+  {
+    "name": "Ben Faston",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M07.png",
+    "answer": "#C"
+  },
+  {
+    "name": "Chase Dalton",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M08.png",
+    "answer": "#C"
+  },
+  {
+    "name": "Betty Stein",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F01.png",
+    "answer": "#C"
+  },
+  {
+    "name": "Stephen Curson",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M04.png",
+    "answer": "#C"
+  },
+  {
+    "name": "Amelia Vester",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F06.png",
+    "answer": "#C"
+  }
+]
+
+responses #D:
+ [
+  {
+    "name": "Lucas Mars",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-M06.png",
+    "answer": "#D"
+  },
+  {
+    "name": "Ally Andersen",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F04.png",
+    "answer": "#D"
+  },
+  {
+    "name": "Mia Gianna",
+    "avatarURI": "C:\\Users\\JM\\StreamingAlchemy\\SA-S03E12\\SA-S03E12-NodeJS/images/Response-F10.png",
+    "answer": "#D"
+  }
+]
