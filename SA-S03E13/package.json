@@ -1,0 +1,19 @@
+{
+  "name": "sa-s03e09-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-query": "^2.2.2",
+    "node-fetch": "^2.6.7",
+    "start": "^5.1.0",
+    "xml2js": "^0.4.23",
+    "xml2js-xpath": "^0.13.0"
+  }
+}
