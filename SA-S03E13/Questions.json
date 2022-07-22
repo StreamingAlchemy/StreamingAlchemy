@@ -1,0 +1,58 @@
+{ 
+    "questionDetails": [
+            {   "questionText": "What do you do when you use RACK FOCUS?",
+                "options": {
+                    "#A":"Put multiple lenses on a single rack",
+                    "#B":"Switch the focus between two subjects",
+                    "#C":"Set a camera to auto-focus",
+                    "#D":"Place all your lenses on a cart with racks"
+                },
+                "Correct":"#B"
+            },
+            {   "questionText": "What does the acronym CODEC stand for?",
+                "options": {
+                    "#A":"CODE written in C (Computer Language)",
+                    "#B":"CO DEpendent production Crew",
+                    "#C":"enCOder DECoder",
+                    "#D":"COffee DEpendent Crew"
+                },
+                "Correct":"#C"
+            },
+            {   "questionText": "What does the acronym SRT stand for?",
+                "options": {
+                    "#A":"Slowly Realizing Trouble",
+                    "#B":"Single Relay Transmission",
+                    "#C":"Somewhat Reliable Team",
+                    "#D":"Secure Reliable Transport"
+                },
+                "Correct":"#D"
+            },
+            {   "questionText": "What does the acronym NDI stand for?",
+                "options": {
+                    "#A":"Network Device Interface",
+                    "#B":"New Digital Interactions",
+                    "#C":"Non-Deliverable Information",
+                    "#D":"Newly Developed Interface"
+                },
+                "Correct":"#A"
+            },
+            {   "questionText": "What does the acronym REMI stand for?",
+                "options": {
+                    "#A":"REMovable Interconnect",
+                    "#B":"REplay Mobile Interface",
+                    "#C":"Reduced Engineering Module Intercept",
+                    "#D":"Remote Integration Model"
+                },
+                "Correct":"#D"
+            },
+            {   "questionText": "What IP-based protocol does Audinate make?",
+                "options": {
+                    "#A":"NDI",
+                    "#B":"WebRTC",
+                    "#C":"Dante",
+                    "#D":"SRT"
+                },
+                "Correct":"#C"
+            }
+    ]
+}
