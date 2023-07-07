@@ -1,0 +1,46 @@
+<Quiz>
+    <Question>
+        <QuestTopic>C:\Images\TOPIC06.png</QuestTopic>
+        <QuestText>The Seven Noble Gases</QuestText>
+        <Resp1>HELIUM</Resp1>
+        <Resp2>ARGON</Resp2>
+        <Resp3>KRYPTON</Resp3>
+        <Resp4>Neon</Resp4>
+        <Resp5>XENON</Resp5>
+        <Resp6>RADON</Resp6>
+        <Resp7>ORGANESSON</Resp7>    
+    </Question>
+    <Question>
+        <QuestTopic>C:\Images\TOPIC04.png</QuestTopic>
+        <QuestText>The Seven Dwarves</QuestText>
+        <Resp1>Sleepy</Resp1>
+        <Resp2>Grumpy</Resp2>
+        <Resp3>Doc</Resp3>
+        <Resp4>Bashful</Resp4>
+        <Resp5>Dopey</Resp5>
+        <Resp6>Happy</Resp6>
+        <Resp7>Sneezy</Resp7>    
+    </Question>
+    <Question>
+        <QuestTopic>C:\Images\TOPIC05.png</QuestTopic>
+        <QuestText>The Seven Richest Celebrities</QuestText>
+        <Resp1>George Lucas</Resp1>
+        <Resp2>Stephen Spielberg</Resp2>
+        <Resp3>Oprah Winfrey</Resp3>
+        <Resp4>Jamie Gertz</Resp4>
+        <Resp5>Jay-Z</Resp5>
+        <Resp6>Rihanna</Resp6>
+        <Resp7>Kim Kardashian</Resp7>    
+    </Question>
+    <Question>
+        <QuestTopic>C:\Images\TOPIC07.png</QuestTopic>
+        <QuestText>Top Seven Apple Products for 2023</QuestText>
+        <Resp1>Vision Pro</Resp1>
+        <Resp2>Studio Pro</Resp2>
+        <Resp3>Macbook PRO 16</Resp3>
+        <Resp4>Macbook Air 15</Resp4>
+        <Resp5>Apple TV 4K</Resp5>
+        <Resp6>AirPods Pro [G2]</Resp6>
+        <Resp7>iPad Pro 12.9</Resp7>    
+    </Question>  
+</Quiz>
